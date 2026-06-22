@@ -1,0 +1,8 @@
+Use case: stylized-concept
+Asset type: game exploration region map, baked raster for UI hotspot overlay
+Primary request: Create a readable 3/4 top-down exploration map for the Cyber Shan Hai Jing region "Qingqiu Data Forest".
+Scene/backdrop: a floating ancient Chinese mythological forest fused with cyberpunk quantum data structures, foxfire stone steles, mirror groves, moonlit canopy paths, dream-loop pools, and a small phantom market zone.
+Style/medium: clean HD hand-painted 2D game map concept art, isometric-like 3/4 top-down, cyberpunk ancient Chinese mythology, high detail but readable gameplay regions.
+Composition/framing: wide landscape map, five to six visually distinct subareas arranged across one continuous region, clear paths and landmarks, no UI frame, no labels.
+Lighting/mood: teal, jade green, moon silver, restrained violet neon, mystical and explorable.
+Constraints: no text, no numbers, no UI, no labels, no characters, no watermark; keep the map usable for clickable hotspot overlays; avoid dark muddy crops and avoid pure abstract scenery.

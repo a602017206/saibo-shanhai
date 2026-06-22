@@ -1,0 +1,8 @@
+Use case: stylized-concept
+Asset type: game exploration region map, baked raster for UI hotspot overlay
+Primary request: Create a readable 3/4 top-down exploration map for the Cyber Shan Hai Jing region "Dahuang Mines".
+Scene/backdrop: ancient Chinese mythological industrial mine complex on floating stone cliffs, old mine rails, deep heat shafts, Xingtian mechanical workshop, magnetic beast nest, meteor ore crater, smuggler lift, molten ore channels and cyan machinery.
+Style/medium: clean HD hand-painted 2D game map concept art, isometric-like 3/4 top-down, cyberpunk ancient Chinese mythology, readable gameplay regions.
+Composition/framing: wide landscape map, six distinct subareas connected by rail bridges and stone paths, strong landmark silhouettes, no UI frame, no labels.
+Lighting/mood: iron black, ember orange, cyan neon, violet machine glow, dangerous but navigable.
+Constraints: no text, no numbers, no UI, no labels, no characters, no watermark; keep open areas for clickable hotspot overlays; avoid photorealism and avoid clutter that hides region boundaries.

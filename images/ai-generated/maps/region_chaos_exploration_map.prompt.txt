@@ -1,0 +1,8 @@
+Use case: stylized-concept
+Asset type: game exploration region map, baked raster for UI hotspot overlay
+Primary request: Create a readable 3/4 top-down exploration map for the Cyber Shan Hai Jing region "Chaos Edge".
+Scene/backdrop: endgame forbidden border region where ancient Chinese myth ruins dissolve into cybernetic chaos, reverse coordinate gate, zero protocol vault, nameless beast womb, dead star observatory, forbidden auction, chaos rewind rift, old god echo platform.
+Style/medium: clean HD hand-painted 2D game map concept art, isometric-like 3/4 top-down, cyberpunk ancient Chinese mythology, readable gameplay regions.
+Composition/framing: wide landscape map, seven distinct subareas on fractured floating landmasses connected by unstable bridges and energy seams, clear landmark silhouettes, no UI frame, no labels.
+Lighting/mood: black stone, red chaos fissures, cold cyan systems light, muted gold ritual geometry, ominous and high risk.
+Constraints: no text, no numbers, no UI, no labels, no characters, no watermark; keep zones readable for clickable hotspot overlays; avoid pure abstract flames or formless smoke.

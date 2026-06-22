@@ -1,0 +1,8 @@
+Use case: stylized-concept
+Asset type: game exploration region map, baked raster for UI hotspot overlay
+Primary request: Create a readable 3/4 top-down exploration map for the Cyber Shan Hai Jing region "East Sea Data Ocean".
+Scene/backdrop: mythological ocean region fused with cybernetic server ruins, drifting buoy field, sunken server port, coral circuit array, Yinglong flight route ruins, black cargo hold, abyss tide crack, floating platforms above luminous data water.
+Style/medium: clean HD hand-painted 2D game map concept art, isometric-like 3/4 top-down, cyberpunk ancient Chinese mythology, readable gameplay regions.
+Composition/framing: wide landscape map, six distinct subareas connected by docks, bridges, data currents and reef paths, clear landmarks and water boundaries, no UI frame, no labels.
+Lighting/mood: deep sea blue, cyan bioluminescence, jade circuitry, small amber lantern accents, mysterious but inspectable.
+Constraints: no text, no numbers, no UI, no labels, no characters, no watermark; keep broad readable zones for clickable hotspot overlays; avoid being a single generic seascape.

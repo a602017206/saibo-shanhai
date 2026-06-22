@@ -1,0 +1,1 @@
+import{d as s,c as a,b as e,o}from"./index-R_O0k-lw.js";const r={class:"p-6"},p=s({__name:"SocialView",setup(c){return(n,t)=>(o(),a("div",r,[...t[0]||(t[0]=[e("h1",{class:"text-2xl font-bold text-cyber-primary mb-4"},"社交",-1),e("div",{class:"card-cyber"},[e("p",{class:"text-gray-400"},"社交系统即将上线，敬请期待。")],-1)])]))}});export{p as default};
